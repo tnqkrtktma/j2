@@ -2,4 +2,4 @@ classes/
 src/*.class
 src/*.*~
 lib/
-model/*.png
+model/*.png"#j2" 
